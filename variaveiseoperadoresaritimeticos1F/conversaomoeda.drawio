@@ -4,8 +4,32 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="UvbsnCg9RMfJeRvDtL8Y-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UvbsnCg9RMfJeRvDtL8Y-1" target="UvbsnCg9RMfJeRvDtL8Y-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UvbsnCg9RMfJeRvDtL8Y-1" value="inicio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="50" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UvbsnCg9RMfJeRvDtL8Y-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UvbsnCg9RMfJeRvDtL8Y-2" target="UvbsnCg9RMfJeRvDtL8Y-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UvbsnCg9RMfJeRvDtL8Y-2" value="cotacao, valorreais" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UvbsnCg9RMfJeRvDtL8Y-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UvbsnCg9RMfJeRvDtL8Y-4" target="UvbsnCg9RMfJeRvDtL8Y-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UvbsnCg9RMfJeRvDtL8Y-4" value="resultado = (valorreais/cotacao)&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="340" width="126" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UvbsnCg9RMfJeRvDtL8Y-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UvbsnCg9RMfJeRvDtL8Y-6" target="UvbsnCg9RMfJeRvDtL8Y-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UvbsnCg9RMfJeRvDtL8Y-6" value="resultado" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="357" y="470" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UvbsnCg9RMfJeRvDtL8Y-8" value="fim" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="377" y="630" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
